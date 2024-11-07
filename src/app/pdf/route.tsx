@@ -14,7 +14,7 @@ export async function GET() {
           paddingTop: 32,
         }}
       >
-        <Text>Hello world</Text>
+        <Text>Hello world from route handler</Text>
       </Page>
     </Document>
   );
